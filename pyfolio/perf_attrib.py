@@ -14,6 +14,7 @@
 # limitations under the License.
 from __future__ import division
 
+from itertools import chain
 import empyrical as ep
 import pandas as pd
 
